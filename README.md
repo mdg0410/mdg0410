@@ -2,9 +2,9 @@
 <h1 align="left">Hi 👋, I'm Steven Levoyer</h1>
 <h3 align="left">A passionate Full-stack Developer</h3>
 
-- 🌱  I’m currently a student at Microverse learning full-stack development.
+- 🌱 I’m currently a student at Microverse learning full-stack development.
 
-- 🤝 I’m open to new opportunies and i am also looking to collaborate on open source projects.
+- 🤝 I'm open to new opportunities and I am also looking to collaborate on open-source projects.
 
 ![mdg0410's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdg0410&show_icons=true&theme=dark)
 
