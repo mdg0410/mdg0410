@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="100%" height="250px" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
-<h1 align="left">Hi 👋, I'm Steven Levoyer</h1>
+<h1 align="left">Hi there, I am Steven 👋</h1>
 <h3 align="left">A passionate Full-stack Developer</h3>
 
 - 🌱 I'm currently a student at Microverse learning full-stack development.
