@@ -1,7 +1,7 @@
 <h6 align="center">Hi there, I am Steven 👋</h6>
 <div align="center" >
   <p align="center">
-    <a href="#" target="_blank" rel="noreferrer"><img src="./bannerName.png" alt="my banner"></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="./banner_v1.png" alt="my banner"></a>
   </p>
   <p align="center"><b>✨ Innovando con tecnología. 🚀 Desarrollador apasionado. 💡 ¡Construyendo el futuro hoy!</b></p>
 </div>
