@@ -3,14 +3,14 @@
   <p align="center">
     <a href="#" target="_blank" rel="noreferrer"><img src="./banner_v1.png" alt="my banner"></a>
   </p>
-  <p align="center"><b>✨ Innovando con tecnología. 🚀 Desarrollador apasionado. 💡 ¡Construyendo el futuro hoy!</b></p>
+  <p align="center"><b>✨ Innovating with technology. 🚀 Passionate developer. 💡 Building the future today!</b></p>
 </div>
 <h5><b>I'm here to put on a show</b></h5>
 <p>👨‍💻 Enthusiastic Frontend student seamlessly blending design creativity with code precision. Actively engaged in the realm of artificial intelligence and constantly exploring cutting-edge technologies. 🚀✨</p>
 <h2><b>📩Connect</b></h2>
 <div>
   <ul>
-    <li>Do you have any question or project to work together? Don't hesitate! Coffe's on me </li>
+    <li>Do you have any question or project to work together? Don't hesitate! Coffee's on me </li>
   </ul>
   <div>
     <p>
@@ -74,39 +74,39 @@
 
 <h2><b>📃 Current Goals</b></h2>
 
-- [ ] Dominar el Inglés:
-  - [ ] Practicar conversación regularmente.
-  - [x] Leer material en inglés de manera constante.
+- [ ] Master English:
+  - [ ] Practice conversation regularly.
+  - [x] Read material in English constantly.
 
-- [ ] Terminar mi Asistente GPT Personal vía WhatsApp:
-  - [x] Implementar funcionalidades clave.
-  - [ ] Realizar pruebas exhaustivas.
-  - [ ] Funcion especial para atencion directa de mi persona con IA
+- [ ] Finish my Personal GPT Assistant via WhatsApp:
+  - [x] Implement key functionalities.
+  - [ ] Perform exhaustive tests.
+  - [ ] Special function for direct attention from me with AI
 
-- [ ] Aprender Python:
-  - [ ] Completar cursos en línea.
-  - [ ] Participar en proyectos prácticos.
-  - [ ] Aprender MongoDB
+- [ ] Learn Python:
+  - [ ] Complete online courses.
+  - [ ] Participate in practical projects.
+  - [ ] Learn MongoDB
 
-- [ ] Aprender el Desarrollo de una Inteligencia Artificial:
-  - [ ] Estudiar algoritmos de aprendizaje automático.
-  - [ ] Desarrollar proyectos prácticos de IA.
+- [ ] Learn AI Development:
+  - [ ] Study machine learning algorithms.
+  - [ ] Develop practical AI projects.
 
-- [ ] Encontrar Empleo:
-  - [ ] Explorar oportunidades laborales.
-  - [ ] Mejorar currículum y perfil en LinkedIn.
-  - [x] Mejorar perfil Github
-  - [x] Crear portafolio 
+- [ ] Find a Job:
+  - [ ] Explore job opportunities.
+  - [ ] Improve resume and LinkedIn profile.
+  - [x] Improve Github profile
+  - [x] Create portfolio 
 
-- [ ] Dominar la Herramienta Copilot de GitHub:
-  - [ ] Familiarizarme con sus funciones.
-  - [x] Utilizar Copilot en proyectos reales.
+- [ ] Master GitHub's Copilot Tool:
+  - [ ] Familiarize myself with its functions.
+  - [x] Use Copilot in real projects.
 
-- [ ] Aprender y Dominar la Creación de Código con Base en la Creación de Pruebas:
-  - [x] Estudiar metodologías de creación de pruebas.
-  - [ ] Aplicar pruebas en proyectos prácticos.
+- [ ] Learn and Master Code Creation Based on Test Creation:
+  - [x] Study test creation methodologies.
+  - [ ] Apply tests in practical projects.
 
-- [ ] Automatizar Espacio de Trabajo:
-  - [ ] Identificar tareas para automatizar.
-  - [ ] Implementar soluciones de automatización.
-  - [ ] Aprender Docker
+- [ ] Automate Workspace:
+  - [ ] Identify tasks to automate.
+  - [ ] Implement automation solutions.
+  - [ ] Learn Docker
