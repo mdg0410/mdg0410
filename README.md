@@ -75,16 +75,11 @@
 <h2><b>📃 Current Goals</b></h2>
 
 - [ ] Master English:
-  - [ ] Practice conversation regularly.
+  - [x] Practice conversation regularly.
   - [x] Read material in English constantly.
 
-- [ ] Finish my Personal GPT Assistant via WhatsApp:
-  - [x] Implement key functionalities.
-  - [ ] Perform exhaustive tests.
-  - [ ] Special function for direct attention from me with AI
-
 - [ ] Learn Python:
-  - [ ] Complete online courses.
+  - [x] Complete online courses.
   - [ ] Participate in practical projects.
   - [ ] Learn MongoDB
 
@@ -93,20 +88,15 @@
   - [ ] Develop practical AI projects.
 
 - [ ] Find a Job:
-  - [ ] Explore job opportunities.
-  - [ ] Improve resume and LinkedIn profile.
+  - [x] Explore job opportunities.
+  - [x] Improve resume and LinkedIn profile.
   - [x] Improve Github profile
   - [x] Create portfolio 
 
 - [ ] Master GitHub's Copilot Tool:
-  - [ ] Familiarize myself with its functions.
+  - [x] Familiarize myself with its functions.
   - [x] Use Copilot in real projects.
 
 - [ ] Learn and Master Code Creation Based on Test Creation:
   - [x] Study test creation methodologies.
   - [ ] Apply tests in practical projects.
-
-- [ ] Automate Workspace:
-  - [ ] Identify tasks to automate.
-  - [ ] Implement automation solutions.
-  - [ ] Learn Docker
